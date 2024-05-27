@@ -1,0 +1,1 @@
+This repo is a simple .net application that supplements the web and mobile teams of the project phase as a backend.
